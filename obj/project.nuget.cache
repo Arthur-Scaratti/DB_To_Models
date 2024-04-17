@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7mDvk+M6X8yAdj3i5AGfBOrmT5pctz7HRIfs/sqaNg5FycNa5syAawTvlvdTv1H9M3X7EEXl8Ou6hlyOPkEGvg==",
+  "dgSpecHash": "zD7xa8OnlXcWJ2bVq9ublKzEdnOcOaXo7SGys+QSWaY7AqkAgh0WAEV3MT5AemhkqMa1B75DT8I0lyhdEFiPcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter\\modelsconverter.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Desenvolvimento\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Desenvolvimento\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

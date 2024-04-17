@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter\\modelsconverter.csproj": {}
+    "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter\\modelsconverter.csproj": {
+    "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter\\modelsconverter.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter.csproj",
         "projectName": "modelsconverter",
-        "projectPath": "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter\\modelsconverter.csproj",
+        "projectPath": "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter.csproj",
         "packagesPath": "C:\\Users\\Desenvolvimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\modelsconverter\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvimento\\Desktop\\Rep\\modelsconverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvimento\\AppData\\Roaming\\NuGet\\NuGet.Config"

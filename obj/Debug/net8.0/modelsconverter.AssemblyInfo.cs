@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("modelsconverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e46988e0c2adcbbb2db2930dfd5362cca5e86a34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5ed629087be02a54f94093360494d1c3d1cb171")]
 [assembly: System.Reflection.AssemblyProductAttribute("modelsconverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("modelsconverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

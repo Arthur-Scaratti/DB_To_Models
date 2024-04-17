@@ -1,0 +1,310 @@
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/modelsconverter.exe
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/modelsconverter.deps.json
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/modelsconverter.runtimeconfig.json
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/modelsconverter.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/modelsconverter.pdb
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/MySql.Data.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/Oracle.ManagedDataAccess.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/modelsconverter.csproj.AssemblyReference.cache
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/modelsconverter.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/modelsconverter.AssemblyInfoInputs.cache
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/modelsconverter.AssemblyInfo.cs
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/modelsconverter.csproj.CoreCompileInputs.cache
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/modelsco.40A386FB.Up2Date
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/modelsconverter.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/refint/modelsconverter.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/modelsconverter.pdb
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/modelsconverter.genruntimeconfig.cache
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/obj/Debug/net8.0/ref/modelsconverter.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/System.DirectoryServices.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/System.DirectoryServices.Protocols.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.DirectoryServices.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/linux/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/osx/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Desenvolvimento/Desktop/Doc simulador/Arthur Scaratti/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter.exe
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter.deps.json
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter.runtimeconfig.json
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter.pdb
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/MySql.Data.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Oracle.ManagedDataAccess.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/System.DirectoryServices.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/System.DirectoryServices.Protocols.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.DirectoryServices.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/linux/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/osx/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.csproj.AssemblyReference.cache
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.AssemblyInfoInputs.cache
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.AssemblyInfo.cs
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.csproj.CoreCompileInputs.cache
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsco.40A386FB.Up2Date
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/refint/modelsconverter.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.pdb
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.genruntimeconfig.cache
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/obj/Debug/net8.0/ref/modelsconverter.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/scara/OneDrive/Área de Trabalho/modelsconverter/modelsconverter/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsconverter.csproj.AssemblyReference.cache
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsconverter.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsconverter.AssemblyInfoInputs.cache
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsconverter.AssemblyInfo.cs
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsconverter.csproj.CoreCompileInputs.cache
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsconverter.sourcelink.json
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsconverter.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/refint/modelsconverter.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsconverter.pdb
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/modelsconverter.exe
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/modelsconverter.deps.json
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/modelsconverter.runtimeconfig.json
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/modelsconverter.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/modelsconverter.pdb
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/MySql.Data.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Oracle.ManagedDataAccess.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/System.DirectoryServices.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/System.DirectoryServices.Protocols.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.DirectoryServices.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/linux/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/osx/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsco.40A386FB.Up2Date
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/modelsconverter.genruntimeconfig.cache
+C:/Users/Desenvolvimento/Desktop/Rep/modelsconverter/obj/Debug/net8.0/ref/modelsconverter.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter.deps.json
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter.runtimeconfig.json
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/modelsconverter.pdb
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Google.Protobuf.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/MySql.Data.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/MySqlConnector.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Oracle.ManagedDataAccess.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Diagnostics.PerformanceCounter.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/System.DirectoryServices.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/System.DirectoryServices.Protocols.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/ZstdSharp.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.PerformanceCounter.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.DirectoryServices.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/linux/lib/net6.0/System.DirectoryServices.Protocols.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/osx/lib/net6.0/System.DirectoryServices.Protocols.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.DirectoryServices.Protocols.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.csproj.AssemblyReference.cache
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.AssemblyInfoInputs.cache
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.AssemblyInfo.cs
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.csproj.CoreCompileInputs.cache
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.csproj.CopyComplete
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/refint/modelsconverter.dll
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.pdb
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/modelsconverter.genruntimeconfig.cache
+/home/arthurscaratti/Documentos/modelsconverter/modelsconverter/obj/Debug/net8.0/ref/modelsconverter.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\modelsconverter.exe
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\modelsconverter.deps.json
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\modelsconverter.runtimeconfig.json
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\modelsconverter.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\modelsconverter.pdb
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.DirectoryServices.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsconverter.csproj.AssemblyReference.cache
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsconverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsconverter.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsconverter.AssemblyInfo.cs
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsconverter.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsconverter.sourcelink.json
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsco.40A386FB.Up2Date
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsconverter.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\refint\modelsconverter.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsconverter.pdb
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\modelsconverter.genruntimeconfig.cache
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\obj\Debug\net8.0\ref\modelsconverter.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Desenvolvimento\Desktop\Rep\modelsconverter\modelsconverter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll

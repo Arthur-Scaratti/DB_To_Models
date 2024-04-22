@@ -15,7 +15,7 @@ namespace Schema
         private readonly OracleDBContext _context;
         public OracleSchemaRetriever()
         {
-            var oracleConnectionString = "User Id=compiereprod;Password=DIEB3G5PPRT;Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.0.3)(PORT = 1521)))(CONNECT_DATA =(SERVICE_NAME = diementz)))"; // Sua string de conexão aqui
+            var oracleConnectionString = "User Id=compiereprod;Password=BLABLA;Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.0.3)(PORT = 1521)))(CONNECT_DATA =(SERVICE_NAME = lerolero)))"; // Sua string de conexão aqui
             var options = new DbContextOptionsBuilder<OracleDBContext>()
                 .UseOracle(oracleConnectionString)
                 .Options;
@@ -47,7 +47,7 @@ namespace Schema
                             join consCol in _context.ALL_CONS_COLUMNS on new { col.TABLE_NAME, col.COLUMN_NAME } equals new { consCol.TABLE_NAME, consCol.COLUMN_NAME } into gj
                             from subconsCol in gj.DefaultIfEmpty()
                             let isPrimaryKey = _context.ALL_CONSTRAINTS.
-                            Any(ac => ac.OWNER == "COMPIEREPROD" && ac.TABLE_NAME == subconsCol.TABLE_NAME && ac.CONSTRAINT_NAME == subconsCol.CONSTRAINT_NAME && ac.CONSTRAINT_TYPE == "P")
+                            Any(ac => ac.OWNER == "owner" && ac.TABLE_NAME == subconsCol.TABLE_NAME && ac.CONSTRAINT_NAME == subconsCol.CONSTRAINT_NAME && ac.CONSTRAINT_TYPE == "P")
                             select new
                             {
                                 col.COLUMN_NAME,

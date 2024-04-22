@@ -31,17 +31,3 @@ namespace index
     }
 }
 
-
-
-
-
-
-        //Oracle
-        //string oracleConnectionString = 
-        //"User Id=compiereprod;Password=DIEB3G5PPRT;Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.0.3)(PORT = 1521)))(CONNECT_DATA =(SERVICE_NAME = diementz)))";
-        
-        //bool connectedToOracle = DatabaseConnections.OracleConn.TestConnection(oracleConnectionString);
-        //if (connectedToOracle)
-        //{
-        // var schema = DatabaseConnections.OracleSchemaRetriever.RetrieveSchema(oracleConnectionString);
-        //}

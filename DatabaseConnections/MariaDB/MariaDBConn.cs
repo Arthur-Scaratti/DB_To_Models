@@ -4,7 +4,7 @@ using Models;
 namespace DatabaseConnections
 {
     public class MariaDBContext(DbContextOptions<MariaDBContext> options) : DbContext(options)
-    {
+    {https://github.com/Arthur-Scaratti/DB_To_Models/tree/main
         public void ConfigureContext(string connectionString)
         {
             var optionsBuilder = new DbContextOptionsBuilder();
@@ -26,7 +26,7 @@ namespace DatabaseConnections
         // protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         // {
         //     // Default configuration
-        //     optionsBuilder.UseMySql("Server=localhost;User Id=root;Password=@ktngtr1;Database=information_schema", new MySqlServerVersion(new Version(8, 0, 21)));
+        //     optionsBuilder.UseMySql(stringConnection, new MySqlServerVersion(new Version(8, 0, 21)));
         // }
     }
 }

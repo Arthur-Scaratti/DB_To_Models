@@ -15,7 +15,7 @@ namespace Schema
         private readonly OracleDBContext _context;
         public OracleSchemaRetriever()
         {
-            var oracleConnectionString = "User Id=compiereprod;Password=BLABLA;Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.0.3)(PORT = 1521)))(CONNECT_DATA =(SERVICE_NAME = lerolero)))"; // Sua string de conexão aqui
+            var oracleConnectionString = "User Id=fulano;Password=123;Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.0.0)(PORT = 6666)))(CONNECT_DATA =(SERVICE_NAME = service)))"; // Sua string de conexão aqui
             var options = new DbContextOptionsBuilder<OracleDBContext>()
                 .UseOracle(oracleConnectionString)
                 .Options;

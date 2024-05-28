@@ -1,2 +1,2 @@
-# DB_To_Models
-# A converter for mariadb and oracle dbs from the tablesheet schema to C#, Node, Php ,Python, Ruby, Typescript ORM Models.  
+# DB_To_Models 
+# A converter for MariaDB and Oracle databases that transforms the table sheet schema into ORM Models for C#, Node, PHP, Python, Ruby, and TypeScript. It’s suitable for large databases (if you’re willing to wait).

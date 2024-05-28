@@ -10,7 +10,7 @@ namespace Schema
 
         public MariaDBSchemaRetriever()
         {
-            var mariadbString = "Server=localhost;User Id=root;Password=@ktngtr1;Database=information_schema";
+            var mariadbString = "Server=localhost;User Id=root;Password=123;Database=information_schema";
             var options = new DbContextOptionsBuilder<MariaDBContext>()
                 .UseMySql(mariadbString, new MySqlServerVersion(new Version(8, 0, 21)))
                 .Options;
